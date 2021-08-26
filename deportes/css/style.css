@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid darkblue;
+}
+
+table{
+    background-color: lightblue;
+}
+
+th{
+    color: lightgreen;
+    background-color: darkgreen;
+}
+
+td{
+    background-color: lightgreen;
+}
